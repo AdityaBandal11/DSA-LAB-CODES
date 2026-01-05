@@ -10,7 +10,7 @@ Each program focuses on understanding **core data structures, algorithm design, 
 - **Subject Name:** Data Structures & Algorithms (DSA) Lab  
 - **Course:** Engineering (SPPU)  
 - **Lab Work:** Practical implementation of DSA concepts  
-- **Languages Used:** C, C++,java
+- **Languages Used:** C, C++,python
 
 ---
 
